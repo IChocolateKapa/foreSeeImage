@@ -26,9 +26,7 @@
                     function(){
                         /*清除预览图片的容器*/
                         fm.deleteZoomDiv();
-  
                     }
             )
-  
         })
     </script>
